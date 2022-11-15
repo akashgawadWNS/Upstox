@@ -13,6 +13,6 @@ public static void main(String[] args) {
     //remove any one entry
     t.remove(102);
     System.out.println(t);
-	System.out.println("hi")
+	System.out.println("hi");
 }
 }
